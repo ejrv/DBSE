@@ -1,2 +1,2 @@
 # DBSE
-Dancraft Bri'ish Snow Edition (Debaune ProjeKTE)
+Dancraft Bri'ish Snow Edition (Debaune ProjeKTe)
